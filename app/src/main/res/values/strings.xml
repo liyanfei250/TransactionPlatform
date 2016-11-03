@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">微交易</string>
+
+    <string name="exit_tips">再按一次退出程序</string>
+    <string name="action_settings">设置</string>
+    <string name="transaction">交易</string>
+
+</resources>
